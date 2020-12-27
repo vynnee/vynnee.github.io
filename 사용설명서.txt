@@ -1,0 +1,14 @@
+* markdown 사용 팁 참조
+https://niklasjang.github.io/guide/how-to-use-markdown/ 
+
+- git bash 실행
+1. cd Desktop
+2. cd HB
+3. cd vynnee.github.io
+4. VSCODE 사용하여 post 입력
+5. git add .
+6. git commit -m "이름"
+7. git push
+
+* blog 주소
+https://vynnee.github.io/
