@@ -5,10 +5,11 @@ https://niklasjang.github.io/guide/how-to-use-markdown/
 1. cd Desktop
 2. cd HB
 3. cd vynnee.github.io
-4. VSCODE 사용하여 post 입력
-5. git add .
-6. git commit -m "이름"
-7. git push
+4. git pull origin main
+5. VSCODE 사용하여 post 입력
+6. git add .
+7. git commit -m "이름"
+8. git push
 
 * blog 주소
 https://vynnee.github.io/
